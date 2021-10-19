@@ -18,7 +18,8 @@
 <b>3- قريباً</b><br>
 <b> 4- قريباً </b><br>
 
-    
+### أوامر التثبيت لنظام linux
+
 ```bash
     
    > sudo apt-get install nodejs
@@ -26,10 +27,7 @@
    > git clone https://github.com/rn0x/whatsapp_adhkar
    > cd whatsapp_adhkar
    > npm i
-   > node index.js
-   or 
    > npm start
-
 
 ```
 
