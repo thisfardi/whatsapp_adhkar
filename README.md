@@ -21,14 +21,12 @@
 ### أوامر التثبيت لنظام linux
 
 ```bash
-    
    > sudo apt-get install nodejs
    > sudo apt-get install git
    > git clone https://github.com/rn0x/whatsapp_adhkar
    > cd whatsapp_adhkar
    > npm i
    > npm start
-
 ```
 
 
