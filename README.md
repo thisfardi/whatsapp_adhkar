@@ -1,4 +1,11 @@
 # Whatsapp_Adhkar
+
+<p align="center">
+  <img align="center" src="/github/1.jpeg" alt="whatsapp_adhkar" width="654" height="620">
+</p>
+
+<br><br>
+
 <b>بوت أذكار للواتساب يحتوي على القران الكريم كامل (4) قراء ويحتوي على صور وفيديوهات إسلامية ويحتوي على أذكار متنوعة ويحتوي على نظام برودكاست لإرسال الاّذكار بشكل تلقائي للمشتركين </b><br>
 <br><br>
 
@@ -60,9 +67,4 @@
    > npm i
    > npm start
 ```
-
-
-<p align="center">
-  <img align="center" src="/github/1.jpeg" alt="whatsapp_adhkar" width="654" height="620">
-</p>
 
