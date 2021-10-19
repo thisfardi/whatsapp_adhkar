@@ -29,7 +29,6 @@ async function start() {
         if (msg.messages && msg.count && msg.hasNewMessage && client.contacts[msg.messages.all()[0].key.remoteJid] != undefined) {
 
             const Menufrom = getMenu({ from: msg.messages.all()[0].key.remoteJid });
-            //msg_body = (msg.messages.all()[0].message === 'conversation' && msg.messages.all()[0].message.conversation) ? msg.messages.all()[0].message.conversation : (msg.messages.all()[0].message == 'extendedTextMessage') && msg.messages.all()[0].message.extendedTextMessage.text ? msg.messages.all()[0].message.extendedTextMessage.text : '';
                 
             menu_number[Menufrom].menu_name.exec({
 
