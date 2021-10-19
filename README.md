@@ -29,6 +29,17 @@
    > npm start
 ```
 
+### أوامر التثبيت لنظام Windows [ cmd ]
+
+```bash
+   > choco install nodejs.install
+   > choco install git
+   > git clone https://github.com/rn0x/whatsapp_adhkar
+   > cd whatsapp_adhkar
+   > npm i
+   > npm start
+```
+
 ### أوامر التثبيت لنظام Android [ Termux ]
 
 ```bash
