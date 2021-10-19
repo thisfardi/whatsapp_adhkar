@@ -18,7 +18,7 @@
 <b>3- قريباً</b><br>
 <b> 4- قريباً </b><br>
 
-### أوامر التثبيت لنظام Ubuntu , Linux Mint , Debian [ bash ]
+### أوامر التثبيت لنظام Ubuntu , Linux Mint , Debian [ terminal ]
 
 ```bash
    > sudo apt-get install nodejs
