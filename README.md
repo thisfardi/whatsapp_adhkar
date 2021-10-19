@@ -22,6 +22,6 @@
 
 
 <p align="center">
-  <img align="center" src="/github/1.jpeg" alt="whatsapp_adhkar" width="777" height="400">
+  <img align="center" src="/github/1.jpeg" alt="whatsapp_adhkar" width="654" height="620">
 </p>
 
