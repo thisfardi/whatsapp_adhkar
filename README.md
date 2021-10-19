@@ -18,7 +18,7 @@
 <b>3- قريباً</b><br>
 <b> 4- قريباً </b><br>
 
-### أوامر التثبيت لنظام linux
+### أوامر التثبيت لنظام [ Ubuntu , Linux Mint , Debian]
 
 ```bash
    > sudo apt-get install nodejs
