@@ -18,7 +18,7 @@
 <b>3- قريباً</b><br>
 <b> 4- قريباً </b><br>
 
-### أوامر التثبيت لنظام [ Ubuntu , Linux Mint , Debian]
+### أوامر التثبيت لنظام [ Ubuntu , Linux Mint , Debian ]
 
 ```bash
    > sudo apt-get install nodejs
@@ -29,6 +29,26 @@
    > npm start
 ```
 
+### أوامر التثبيت لنظام Android [ Termux ]
+
+```bash
+   > pkg update && pkg upgrade
+   > pkg install proot-distro
+   > proot-distro install alpine
+   > proot-distro login alpine
+   > apk update && apk add --no-cache nmap && \
+  echo @edge http://nl.alpinelinux.org/alpine/edge/community >> /etc/apk/repositories && \
+  echo @edge http://nl.alpinelinux.org/alpine/edge/main >> /etc/apk/repositories && \
+  apk update && \
+  apk add --no-cache \
+  chromium
+   > apk add --update nodejs npm
+   > apk add git
+   > git clone https://github.com/rn0x/whatsapp_adhkar
+   > cd whatsapp_adhkar
+   > npm i
+   > npm start
+```
 
 
 <p align="center">
